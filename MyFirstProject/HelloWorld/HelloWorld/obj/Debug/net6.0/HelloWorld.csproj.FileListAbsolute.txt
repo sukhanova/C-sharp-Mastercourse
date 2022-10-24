@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MyFirstProject/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

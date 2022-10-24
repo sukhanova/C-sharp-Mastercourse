@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/bin/Debug/net6.0/GreetingApp
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/bin/Debug/net6.0/GreetingApp.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/bin/Debug/net6.0/GreetingApp.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/bin/Debug/net6.0/GreetingApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/bin/Debug/net6.0/GreetingApp.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/refint/GreetingApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/GreetingApp.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/MysecondProject/GreetingApp/obj/Debug/net6.0/ref/GreetingApp.dll

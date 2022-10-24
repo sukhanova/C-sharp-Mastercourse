@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/bin/Debug/net6.0/StringVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/bin/Debug/net6.0/StringVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/bin/Debug/net6.0/StringVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/bin/Debug/net6.0/StringVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/bin/Debug/net6.0/StringVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/refint/StringVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/StringVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StringVariables/StringVariables/obj/Debug/net6.0/ref/StringVariables.dll

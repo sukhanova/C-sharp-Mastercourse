@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/bin/Debug/net6.0/IntVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/bin/Debug/net6.0/IntVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/bin/Debug/net6.0/IntVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/bin/Debug/net6.0/IntVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/bin/Debug/net6.0/IntVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/refint/IntVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/IntVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/IntVariablesApp/IntVariables/obj/Debug/net6.0/ref/IntVariables.dll

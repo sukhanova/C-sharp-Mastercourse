@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/bin/Debug/net6.0/DecimalVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/bin/Debug/net6.0/DecimalVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/bin/Debug/net6.0/DecimalVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/bin/Debug/net6.0/DecimalVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/bin/Debug/net6.0/DecimalVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/refint/DecimalVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/DecimalVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DecimalVariablesApp/DecimalVariables/obj/Debug/net6.0/ref/DecimalVariables.dll

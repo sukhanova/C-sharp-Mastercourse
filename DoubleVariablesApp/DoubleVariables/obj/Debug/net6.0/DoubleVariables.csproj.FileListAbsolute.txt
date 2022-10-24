@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/bin/Debug/net6.0/DoubleVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/bin/Debug/net6.0/DoubleVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/bin/Debug/net6.0/DoubleVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/bin/Debug/net6.0/DoubleVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/bin/Debug/net6.0/DoubleVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/refint/DoubleVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/DoubleVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoubleVariablesApp/DoubleVariables/obj/Debug/net6.0/ref/DoubleVariables.dll
