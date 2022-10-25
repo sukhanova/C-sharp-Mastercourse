@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/bin/Debug/net6.0/DateTimeVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/bin/Debug/net6.0/DateTimeVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/bin/Debug/net6.0/DateTimeVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/bin/Debug/net6.0/DateTimeVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/bin/Debug/net6.0/DateTimeVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/refint/DateTimeVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/DateTimeVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DateTimeVariablesApp/DateTimeVariables/obj/Debug/net6.0/ref/DateTimeVariables.dll

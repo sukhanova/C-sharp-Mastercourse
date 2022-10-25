@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{C16771A1-DFB9-4201-BCC2-CB34A1A7AB91}|Default">
+﻿<Properties StartupConfiguration="{DF75BFC0-9E92-4A04-A75E-C79788575AD7}|Default">
+  <MonoDevelop.Ide.ItemProperties.DateOnlyVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkVariables/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateOnlyVariables/Program.cs">
     <Files>
-      <File FileName="HomeworkVariables/Program.cs" Line="14" Column="1" />
+      <File FileName="DateOnlyVariables/Program.cs" Line="14" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HomeworkVariablesApp" expanded="True">
-            <Node name="HomeworkVariables" expanded="True" />
+          <Node name="DateOnlyVariablesApp" expanded="True">
+            <Node name="DateOnlyVariables" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,5 +23,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HomeworkVariables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
