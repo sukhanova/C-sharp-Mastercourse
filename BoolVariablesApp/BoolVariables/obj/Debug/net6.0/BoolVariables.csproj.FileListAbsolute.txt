@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/bin/Debug/net6.0/BoolVariables
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/bin/Debug/net6.0/BoolVariables.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/bin/Debug/net6.0/BoolVariables.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/bin/Debug/net6.0/BoolVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/bin/Debug/net6.0/BoolVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/refint/BoolVariables.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/BoolVariables.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BoolVariablesApp/BoolVariables/obj/Debug/net6.0/ref/BoolVariables.dll

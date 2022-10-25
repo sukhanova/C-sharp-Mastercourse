@@ -1,19 +1,18 @@
-﻿<Properties StartupConfiguration="{A195A532-54A5-4EC7-B691-582D5B734404}|Default">
+﻿<Properties StartupConfiguration="{42757E29-59CD-4E17-AB11-3854402612F5}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DecimalVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DecimalVariables/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NullVariables/Program.cs">
     <Files>
-      <File FileName="DecimalVariables/Program.cs" Line="26" Column="20" />
+      <File FileName="NullVariables/Program.cs" Line="10" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DecimalVariablesApp" expanded="True">
-            <Node name="DecimalVariables" expanded="True" />
+          <Node name="NullVariablesApp" expanded="True">
+            <Node name="NullVariables" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,4 +22,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NullVariables PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

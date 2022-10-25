@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{A195A532-54A5-4EC7-B691-582D5B734404}|Default">
+﻿<Properties StartupConfiguration="{80A5B9F2-6DD5-404D-B57D-1CC2681D0CA2}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DecimalVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BoolVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DecimalVariables/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoolVariables/Program.cs">
     <Files>
-      <File FileName="DecimalVariables/Program.cs" Line="26" Column="20" />
+      <File FileName="BoolVariables/Program.cs" Line="8" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DecimalVariablesApp" expanded="True">
-            <Node name="DecimalVariables" expanded="True" />
+          <Node name="BoolVariablesApp" expanded="True">
+            <Node name="BoolVariables" expanded="True" />
           </Node>
         </State>
       </Pad>
