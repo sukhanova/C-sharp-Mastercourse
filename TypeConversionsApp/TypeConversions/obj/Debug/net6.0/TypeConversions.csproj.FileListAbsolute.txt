@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/bin/Debug/net6.0/TypeConversions
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/bin/Debug/net6.0/TypeConversions.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/bin/Debug/net6.0/TypeConversions.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/bin/Debug/net6.0/TypeConversions.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/bin/Debug/net6.0/TypeConversions.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/refint/TypeConversions.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/TypeConversions.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsApp/TypeConversions/obj/Debug/net6.0/ref/TypeConversions.dll

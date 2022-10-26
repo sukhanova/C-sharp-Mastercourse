@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{0795FD80-0C52-4696-A9ED-4F666E59F3D2}|Default">
+﻿<Properties StartupConfiguration="{5BAEE945-232E-48D4-BAEF-DAB980B11341}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TimeOnlyVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TypeConversions PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="TimeOnlyVariables/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeConversions/Program.cs">
     <Files>
-      <File FileName="TimeOnlyVariables/Program.cs" Line="3" Column="1" />
+      <File FileName="TypeConversions/Program.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TimeOnlyVariablesApp" expanded="True">
-            <Node name="TimeOnlyVariables" expanded="True" />
+          <Node name="TypeConversionsApp" expanded="True">
+            <Node name="TypeConversions" expanded="True" />
           </Node>
         </State>
       </Pad>

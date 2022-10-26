@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/bin/Debug/net6.0/TypeConversionsHomework
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/bin/Debug/net6.0/TypeConversionsHomework.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/bin/Debug/net6.0/TypeConversionsHomework.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/bin/Debug/net6.0/TypeConversionsHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/bin/Debug/net6.0/TypeConversionsHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/refint/TypeConversionsHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/TypeConversionsHomework.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TypeConversionsHomeworkApp/TypeConversionsHomework/obj/Debug/net6.0/ref/TypeConversionsHomework.dll
