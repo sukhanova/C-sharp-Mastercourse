@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/bin/Debug/net6.0/AdvancedIF
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/bin/Debug/net6.0/AdvancedIF.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/bin/Debug/net6.0/AdvancedIF.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/bin/Debug/net6.0/AdvancedIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/bin/Debug/net6.0/AdvancedIF.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/refint/AdvancedIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/AdvancedIF.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/AdvancedIFApp/AdvancedIF/obj/Debug/net6.0/ref/AdvancedIF.dll

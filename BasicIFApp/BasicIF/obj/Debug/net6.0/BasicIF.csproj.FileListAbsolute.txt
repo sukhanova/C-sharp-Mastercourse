@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/bin/Debug/net6.0/BasicIF
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/bin/Debug/net6.0/BasicIF.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/bin/Debug/net6.0/BasicIF.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/bin/Debug/net6.0/BasicIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/bin/Debug/net6.0/BasicIF.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/refint/BasicIF.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/BasicIF.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/BasicIFApp/BasicIF/obj/Debug/net6.0/ref/BasicIF.dll

@@ -1,19 +1,18 @@
-﻿<Properties StartupConfiguration="{61154866-5275-4B7D-B389-459161282B71}|Default">
+﻿<Properties StartupConfiguration="{ED921DC1-1531-40E7-831D-341DF6C1A1AF}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TypeConversionsHomework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="TypeConversionsHomework/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicIF/Program.cs">
     <Files>
-      <File FileName="TypeConversionsHomework/Program.cs" Line="14" Column="33" />
+      <File FileName="BasicIF/Program.cs" Line="83" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TypeConversionsHomeworkApp" expanded="True">
-            <Node name="TypeConversionsHomework" expanded="True" />
+          <Node name="BasicIFApp" expanded="True">
+            <Node name="BasicIF" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,5 +21,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BasicIF PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
