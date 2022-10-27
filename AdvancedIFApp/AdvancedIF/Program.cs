@@ -76,7 +76,7 @@ string userSex = Console.ReadLine();
 Console.Write("How old are you? ");
 int userAge = Convert.ToInt32(Console.ReadLine());
 
-if ((userSex.ToLower() == "yes") && ((userAge >= 18) && (userAge <= 26)))
+if ((userSex.ToLower() == "yes") && (userAge >= 18 && userAge <= 26))
 {
     Console.WriteLine("You are eligible to register for service.");
 }

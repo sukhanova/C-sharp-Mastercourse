@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{8AEF524E-AA67-4DA5-B321-0131B59CAD66}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AdvancedIF FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedIF/Program.cs">
+    <Files>
+      <File FileName="AdvancedIF/Program.cs" Line="81" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedIFApp" expanded="True">
+            <Node name="AdvancedIF" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdvancedIF PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
