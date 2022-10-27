@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/bin/Debug/net6.0/StudentCheck
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/bin/Debug/net6.0/StudentCheck.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/bin/Debug/net6.0/StudentCheck.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/bin/Debug/net6.0/StudentCheck.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/bin/Debug/net6.0/StudentCheck.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/refint/StudentCheck.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/StudentCheck.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StudentCheckApp/StudentCheck/obj/Debug/net6.0/ref/StudentCheck.dll

@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{F2CF7028-10D8-4D4A-84F9-7A4573AB86C3}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SwitchStatements FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchStatements/Program.cs">
+    <Files>
+      <File FileName="SwitchStatements/Program.cs" Line="29" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwitchStatementsApp" expanded="True">
+            <Node name="SwitchStatements" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwitchStatements PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
