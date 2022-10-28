@@ -1,6 +1,6 @@
 ﻿
-//bool isValidAge;
-//int age;
+bool isValidAge;
+int age;
 
 do
 {
@@ -19,18 +19,18 @@ Console.WriteLine($"Your age is {age}");
 Console.WriteLine("End of program");
 
 
-//bool isDivisible= true;
-//while (isDivisible)
-//{
-//    Console.Write("Type a number between 1 and 21: ");
-//    int number = Convert.ToInt32(Console.ReadLine());
+bool isDivisible = true;
+while (isDivisible)
+{
+    Console.Write("Type a number between 1 and 21: ");
+    int number = Convert.ToInt32(Console.ReadLine());
 
-//    if (number %  2 == 0)
-//    {
-//        isDivisible = false;
-//        Console.WriteLine($"Number {number} is divisible");
-//    }
-//}
+    if (number % 2 == 0)
+    {
+        isDivisible = false;
+        Console.WriteLine($"Number {number} is divisible");
+    }
+}
 
 
 

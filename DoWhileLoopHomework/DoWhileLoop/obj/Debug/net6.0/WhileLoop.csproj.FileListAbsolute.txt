@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/bin/Debug/net6.0/DoWhileLoop
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/bin/Debug/net6.0/DoWhileLoop.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/bin/Debug/net6.0/DoWhileLoop.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/bin/Debug/net6.0/DoWhileLoop.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/bin/Debug/net6.0/DoWhileLoop.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/DoWhileLoop.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/refint/DoWhileLoop.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/DoWhileLoop.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/WhileLoop.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DoWhileLoopHomework/DoWhileLoop/obj/Debug/net6.0/ref/DoWhileLoop.dll
