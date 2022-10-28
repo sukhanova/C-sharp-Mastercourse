@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{28037D5C-A9B9-4965-969E-697C64C8C878}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StudentCheck FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentCheck/Program.cs">
+    <Files>
+      <File FileName="StudentCheck/Program.cs" Line="31" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentCheckApp" expanded="True">
+            <Node name="StudentCheck" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StudentCheck PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
