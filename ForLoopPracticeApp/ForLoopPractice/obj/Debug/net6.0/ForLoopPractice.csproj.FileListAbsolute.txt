@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/bin/Debug/net6.0/ForLoopPractice
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/bin/Debug/net6.0/ForLoopPractice.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/bin/Debug/net6.0/ForLoopPractice.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/bin/Debug/net6.0/ForLoopPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/bin/Debug/net6.0/ForLoopPractice.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/refint/ForLoopPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ForLoopPractice.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopPracticeApp/ForLoopPractice/obj/Debug/net6.0/ref/ForLoopPractice.dll
