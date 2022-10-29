@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/bin/Debug/net6.0/Loops
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/bin/Debug/net6.0/Loops.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/bin/Debug/net6.0/Loops.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/bin/Debug/net6.0/Loops.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/refint/Loops.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/LoopsApp/Loops/obj/Debug/net6.0/ref/Loops.dll

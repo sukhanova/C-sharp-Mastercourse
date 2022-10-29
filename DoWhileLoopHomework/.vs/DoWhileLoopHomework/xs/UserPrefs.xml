@@ -8,12 +8,12 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="DoWhileLoop/Program.cs">
     <Files>
-      <File FileName="DoWhileLoop/Program.cs" Line="26" Column="6" />
+      <File FileName="DoWhileLoop/Program.cs" Line="20" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DoWhileLoopHomework" expanded="True" selected="True">
+          <Node name="DoWhileLoopHomework" expanded="True">
             <Node name="WhileLoop" expanded="True" />
           </Node>
         </State>
