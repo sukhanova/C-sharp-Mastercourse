@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{26851A95-0925-4DDE-A793-FB9B47990D95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
+    <Files>
+      <File FileName="Arrays/Program.cs" Line="29" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArraysApp" expanded="True">
+            <Node name="Arrays" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

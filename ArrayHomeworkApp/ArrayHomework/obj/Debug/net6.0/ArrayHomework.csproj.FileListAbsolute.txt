@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/bin/Debug/net6.0/ArrayHomework
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/bin/Debug/net6.0/ArrayHomework.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/bin/Debug/net6.0/ArrayHomework.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/bin/Debug/net6.0/ArrayHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/bin/Debug/net6.0/ArrayHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/refint/ArrayHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ArrayHomework.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ArrayHomeworkApp/ArrayHomework/obj/Debug/net6.0/ref/ArrayHomework.dll
