@@ -11,26 +11,48 @@ using System.Threading.Tasks;
 
 string[] names = new string[] { "Kate Warne", "Annette Kellerman", "Marie Curie"};
 
-Console.Write("Choose number between 1 and 3 to reveal the name: ");
-int userInput = Convert.ToInt32(Console.ReadLine());
-if (1 <= userInput && userInput <= 3)
+//Console.Write("Choose number between 1 and 3 to reveal the name: ");
+//int userInput = Convert.ToInt32(Console.ReadLine());
+//if (1 <= userInput && userInput <= 3)
+//{
+//    switch (userInput)
+//    {
+//        case 1:
+//            Console.WriteLine(names[0]);
+//            break;
+//        case 2:
+//            Console.WriteLine(names[1]);
+//            break;
+//        case 3:
+//            Console.WriteLine(names[2]);
+//            break;
+//    }
+//}
+//else
+//{
+//    Console.WriteLine("Invalid selection");
+//}
+
+//Console.WriteLine("End of program.");
+
+bool isValidInput = true;
+do
 {
-    switch (userInput)
+    Console.Write("Choose number between 1 and 3 to reveal the name or type 0 to exit: ");
+    int userInput = Convert.ToInt32(Console.ReadLine());
+    int nameSelection = userInput - 1;
+    if (1 <= userInput && userInput <= 3)
     {
-        case 1:
-            Console.WriteLine(names[0]);
-            break;
-        case 2:
-            Console.WriteLine(names[1]);
-            break;
-        case 3:
-            Console.WriteLine(names[2]);
-            break;
+        Console.WriteLine(names[nameSelection]);
     }
-}
-else
-{
-    Console.WriteLine("Invalid selection");
-}
+    else if (userInput == 0)
+    {
+        isValidInput = false;
+    }
+    else
+    {
+        Console.WriteLine("Invalid selection");
+    }
+} while (isValidInput);
 
 Console.WriteLine("End of program.");
