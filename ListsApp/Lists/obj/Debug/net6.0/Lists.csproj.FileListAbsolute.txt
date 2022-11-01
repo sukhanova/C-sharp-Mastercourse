@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/bin/Debug/net6.0/Lists
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/bin/Debug/net6.0/Lists.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/bin/Debug/net6.0/Lists.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/bin/Debug/net6.0/Lists.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/bin/Debug/net6.0/Lists.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/refint/Lists.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/Lists.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsApp/Lists/obj/Debug/net6.0/ref/Lists.dll

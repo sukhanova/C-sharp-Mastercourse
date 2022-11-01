@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{055A50EF-AB11-4BAF-8BE8-9575E8AC18CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayHomework/Program.cs">
+    <Files>
+      <File FileName="ArrayHomework/Program.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayHomeworkApp" expanded="True">
+            <Node name="ArrayHomework" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ArrayHomework FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ArrayHomework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
