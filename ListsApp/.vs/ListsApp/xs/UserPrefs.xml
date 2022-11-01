@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{AB2BCA2B-B1D6-4C72-90AC-DE8F9D80D826}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lists FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lists/Program.cs">
+    <Files>
+      <File FileName="Lists/Program.cs" Line="45" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListsApp" expanded="True">
+            <Node name="Lists" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lists PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
