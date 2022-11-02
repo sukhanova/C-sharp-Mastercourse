@@ -19,13 +19,17 @@ while (!exit)
     else
     {
         Console.Write("Type in number: ");
-        int employeeNumber = Convert.ToInt32(Console.ReadLine());
-        employeesList.Add(employeeNumber, employeeName);
+        // int employeeNumber = Convert.ToInt32(Console.ReadLine());
+       string empNumber = Console.ReadLine();
+       bool isValidInt = int.TryParse(empNumber, out int employeeNumber);
+       employeesList.Add(employeeNumber, employeeName);
     }
 }
 
 Console.WriteLine($"\n To look up for employee type number between 1 and {employeesList.Count}");
-int lookupNumber = Convert.ToInt32(Console.ReadLine());
+// int lookupNumber = Convert.ToInt32(Console.ReadLine());
+string selectKey = Console.ReadLine();
+bool isValidIntInput = int.TryParse(selectKey, out int lookupNumber);
 Console.WriteLine($"\n You are looking for number {lookupNumber}");
 foreach (var emp in employeesList)
 {
