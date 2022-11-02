@@ -7,21 +7,22 @@ Fill in few records. Then ask user for thei ID and return their name
 Console.WriteLine("Employee list app");
 Dictionary<int, string> employeesList = new Dictionary<int, string>();
 bool exit = false;
-do
+
+while (!exit)
 {
     Console.Write("Type an employee name or type 'q' to exit: ");
     string employeeName = Console.ReadLine();
-    Console.Write("Type in number: ");
-    int employeeNumber = Convert.ToInt32(Console.ReadLine());
-    if (employeeName.ToLower() == "q" || employeeNumber == 0)
+    if (employeeName.ToLower() == "q")
     {
         exit = true;
     }
     else
     {
+        Console.Write("Type in number: ");
+        int employeeNumber = Convert.ToInt32(Console.ReadLine());
         employeesList.Add(employeeNumber, employeeName);
     }
-} while (!exit);
+}
 
 Console.WriteLine($"\n To look up for employee type number between 1 and {employeesList.Count}");
 int lookupNumber = Convert.ToInt32(Console.ReadLine());
@@ -35,3 +36,5 @@ foreach (var emp in employeesList)
     }
 }
 
+
+Console.WriteLine("\n End of program");
