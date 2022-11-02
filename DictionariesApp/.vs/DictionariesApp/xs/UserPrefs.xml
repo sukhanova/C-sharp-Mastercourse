@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4221AD0F-426D-47DE-885A-61C343EC22C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Dictionaries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dictionaries/Program.cs">
+    <Files>
+      <File FileName="Dictionaries/Program.cs" Line="14" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionariesApp" expanded="True">
+            <Node name="Dictionaries" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

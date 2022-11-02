@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/bin/Debug/net6.0/Dictionaries
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/bin/Debug/net6.0/Dictionaries.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/bin/Debug/net6.0/Dictionaries.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/bin/Debug/net6.0/Dictionaries.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/bin/Debug/net6.0/Dictionaries.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/refint/Dictionaries.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/Dictionaries.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesApp/Dictionaries/obj/Debug/net6.0/ref/Dictionaries.dll
