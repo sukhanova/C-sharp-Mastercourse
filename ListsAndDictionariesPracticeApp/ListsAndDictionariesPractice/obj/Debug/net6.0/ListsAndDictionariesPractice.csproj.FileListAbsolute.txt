@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/bin/Debug/net6.0/ListsAndDictionariesPractice
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/bin/Debug/net6.0/ListsAndDictionariesPractice.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/bin/Debug/net6.0/ListsAndDictionariesPractice.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/bin/Debug/net6.0/ListsAndDictionariesPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/bin/Debug/net6.0/ListsAndDictionariesPractice.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/refint/ListsAndDictionariesPractice.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ListsAndDictionariesPractice.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ListsAndDictionariesPracticeApp/ListsAndDictionariesPractice/obj/Debug/net6.0/ref/ListsAndDictionariesPractice.dll
