@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/bin/Debug/net6.0/DictionariesHomework
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/bin/Debug/net6.0/DictionariesHomework.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/bin/Debug/net6.0/DictionariesHomework.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/bin/Debug/net6.0/DictionariesHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/bin/Debug/net6.0/DictionariesHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/refint/DictionariesHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/DictionariesHomework.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/DictionariesHomeworkApp/DictionariesHomework/obj/Debug/net6.0/ref/DictionariesHomework.dll
