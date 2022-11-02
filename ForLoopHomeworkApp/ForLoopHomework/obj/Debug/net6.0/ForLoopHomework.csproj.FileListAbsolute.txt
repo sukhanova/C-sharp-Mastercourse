@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/bin/Debug/net6.0/ForLoopHomework
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/bin/Debug/net6.0/ForLoopHomework.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/bin/Debug/net6.0/ForLoopHomework.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/bin/Debug/net6.0/ForLoopHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/bin/Debug/net6.0/ForLoopHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/refint/ForLoopHomework.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ForLoopHomework.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/ForLoopHomeworkApp/ForLoopHomework/obj/Debug/net6.0/ref/ForLoopHomework.dll

@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{4F102A9C-EDCB-4D31-8C24-6455F6C60AE9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ListsAndDictionariesPractice/Program.cs">
+﻿<Properties StartupConfiguration="{22D64F46-EC9C-49B4-A44A-D67383C89A1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForLoops/Program.cs">
     <Files>
-      <File FileName="ListsAndDictionariesPractice/Program.cs" Line="6" Column="35" />
+      <File FileName="ForLoops/Program.cs" Line="27" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ListsAndDictionariesPracticeApp" expanded="True">
-            <Node name="ListsAndDictionariesPractice" expanded="True" />
+          <Node name="ForLoopsApp" expanded="True">
+            <Node name="ForLoops" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -17,8 +17,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ListsAndDictionariesPractice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ForLoops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
