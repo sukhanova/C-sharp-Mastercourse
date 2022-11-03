@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{E2216FCC-3588-4F3D-AB09-DAA8278C41E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForLoopHomework/Program.cs">
+    <Files>
+      <File FileName="ForLoopHomework/Program.cs" Line="57" Column="94" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForLoopHomeworkApp" expanded="True">
+            <Node name="ForLoopHomework" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ForLoopHomework FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ForLoopHomework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
