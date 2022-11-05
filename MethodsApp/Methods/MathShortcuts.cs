@@ -3,9 +3,11 @@ namespace Methods
 {
     public static class MathShortcuts
     {
-        public static void Add(double x, double y)
+        public static double Add(double x, double y)
         {
-            Console.WriteLine($"The sum of {x} and {y} is {x+y}");
+            //  Console.WriteLine($"The sum of {x} and {y} is {x+y}");
+            double output = x + y;
+            return output;
         }
 
         public static void AddAll(double[] values)

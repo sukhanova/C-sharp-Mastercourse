@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/bin/Debug/net6.0/Tuples
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/bin/Debug/net6.0/Tuples.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/bin/Debug/net6.0/Tuples.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/bin/Debug/net6.0/Tuples.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/bin/Debug/net6.0/Tuples.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/refint/Tuples.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/Tuples.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/TuplesApp/Tuples/obj/Debug/net6.0/ref/Tuples.dll

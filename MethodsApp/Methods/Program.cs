@@ -2,13 +2,15 @@
 
 using Methods;
 
-Console.Write("What is your name: ");
-string userInputName = Console.ReadLine();
+string userInputName = SampleMethods.GetUsersName();
 SampleMethods.SayHello(userInputName);
 SampleMethods.SayGoodbye();
 
 
-MathShortcuts.Add(3, 91);
+double result = MathShortcuts.Add(3, 91);
+Console.WriteLine($"Result is {result}");
+
+// Console.WriteLine($"The result is {MathShortcuts.Add(3, 91)}");
 
 double[] vals = new double[] { 18, 11, 93, 118, 457, 1003 };
 MathShortcuts.AddAll(vals);
