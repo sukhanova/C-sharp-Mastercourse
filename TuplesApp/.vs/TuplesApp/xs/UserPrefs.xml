@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{5B136D7A-86A2-484F-A69E-2DF1ABDD2A9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tuples PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Tuples FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuples/Program.cs">
+    <Files>
+      <File FileName="Tuples/Program.cs" Line="13" Column="51" />
+      <File FileName="Tuples/ConsoleMessages.cs" Line="28" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TuplesApp" expanded="True">
+            <Node name="Tuples" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
