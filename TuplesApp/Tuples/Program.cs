@@ -7,7 +7,10 @@ using Tuples;
 // use tuples if you want to return more than 1 value from given method
 
 
-(string, string) fullName = ConsoleMessages.GetFullName();
+// if you do not need one of parameters - use discard character (_) instead and comment console output
+// (string firstName, _) name = ConsoleMessages.GetFullName();
 
-Console.WriteLine($"First Name: {fullName.Item1}");
-Console.WriteLine($"Last Name: {fullName.Item2}");
+(string firstName, string lastName) name = ConsoleMessages.GetFullName();
+
+Console.WriteLine($"First Name: {name.firstName}");
+Console.WriteLine($"Last Name: {name.lastName}");
