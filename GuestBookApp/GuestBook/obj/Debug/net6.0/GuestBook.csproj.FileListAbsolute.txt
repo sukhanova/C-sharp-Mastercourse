@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/bin/Debug/net6.0/GuestBook
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/bin/Debug/net6.0/GuestBook.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/bin/Debug/net6.0/GuestBook.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/bin/Debug/net6.0/GuestBook.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/bin/Debug/net6.0/GuestBook.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/refint/GuestBook.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/GuestBook.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/GuestBookApp/GuestBook/obj/Debug/net6.0/ref/GuestBook.dll
