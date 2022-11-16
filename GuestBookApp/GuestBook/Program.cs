@@ -41,3 +41,8 @@ Loop back to the top until no more guests
 using GuestBook;
 
 GuestsData.WelcomeUser();
+var (guests, totalGuestCount) = GuestsData.GetAllGuestsInfo();
+
+GuestsData.DisplayGuestList(guests);
+totalGuestCount = Convert.ToInt32(totalGuestCount);
+//GuestsData.DisplayGuestList(GuestCount);
