@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/bin/Debug/net6.0/ConsoleUI.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/refint/ConsoleUI.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ConsoleUI.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/UsingBreakPointsDemo/ConsoleUI/obj/Debug/net6.0/ref/ConsoleUI.dll
