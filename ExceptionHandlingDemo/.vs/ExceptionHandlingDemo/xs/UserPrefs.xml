@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{E4BB7837-179D-401D-B718-48BFD81D1F86}|Default">
+﻿<Properties StartupConfiguration="{1B78CE92-44C0-48A6-9293-A49221A0ACCD}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
     <Files>
-      <File FileName="ConsoleUI/Program.cs" Line="15" Column="1" />
+      <File FileName="ConsoleUI/Program.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="UsingBreakPointsDemo" expanded="True">
+          <Node name="ExceptionHandlingDemo" expanded="True">
             <Node name="ConsoleUI" expanded="True" />
           </Node>
         </State>
