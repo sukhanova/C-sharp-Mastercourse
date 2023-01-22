@@ -1,0 +1,15 @@
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/bin/Debug/net6.0/ConsoleCalculationApp
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/bin/Debug/net6.0/ConsoleCalculationApp.deps.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/bin/Debug/net6.0/ConsoleCalculationApp.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/bin/Debug/net6.0/ConsoleCalculationApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/bin/Debug/net6.0/ConsoleCalculationApp.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/refint/ConsoleCalculationApp.dll
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.pdb
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ConsoleCalculationApp.genruntimeconfig.cache
+/Users/virasukhanova/Desktop/Repos/C-sharp/C#_Mastercourse/StaticClassesHomework/ConsoleCalculationApp/obj/Debug/net6.0/ref/ConsoleCalculationApp.dll

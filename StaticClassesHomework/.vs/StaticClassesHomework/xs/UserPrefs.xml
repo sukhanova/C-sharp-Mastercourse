@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F9FC7027-2572-4E76-B81C-5B7A93EB7347}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleCalculationApp/RequestData.cs">
+    <Files>
+      <File FileName="ConsoleCalculationApp/Program.cs" Line="9" Column="55" />
+      <File FileName="ConsoleCalculationApp/UserMessages.cs" Line="8" Column="67" />
+      <File FileName="ConsoleCalculationApp/RequestData.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StaticClassesHomework" expanded="True">
+            <Node name="ConsoleCalculationApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleCalculationApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{FAF0D69C-FFD2-4A64-B415-42A9056D7771}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/UserMessages.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" Line="26" Column="2" />
+      <File FileName="ConsoleUI/UserMessages.cs" Line="21" Column="14" />
+      <File FileName="ConsoleUI/RequestData.cs" Line="20" Column="27" />
+      <File FileName="ConsoleUI/CalculateData.cs" Line="12" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StaticClassesDemo" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="UserMessages.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
